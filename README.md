@@ -1,9 +1,9 @@
 <!-- Banner (optional but recommended for personality!) -->
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="Welcome Banner" />
+  <img src="[(https://www.canva.com/design/DAGmR4jL94o/pFspxwmcwxVyxo9-1X-8pQ/edit?utm_content=DAGmR4jL94o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]g" alt= "Professional Banner" />
 </p>
 
-### Hello there 👋 I'm Sarah Iniobong Uko — but you can call me Savvysarah! 😄
+### Hello there 👋 I'm Sarah Iniobong Uko but you can call me Savvysarah! 😄
 
 💻 Passionate about tech, creativity, and community.
 
@@ -32,17 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="30" alt="Excel" />
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="30" alt="Power BI" />
 </p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Sarah's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</p>
-
