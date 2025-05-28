@@ -1,6 +1,6 @@
 <!-- Banner (optional but recommended for personality!) -->
 <p align="center">
-  <img src="[(https://www.canva.com/design/DAGmR4jL94o/pFspxwmcwxVyxo9-1X-8pQ/edit?utm_content=DAGmR4jL94o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]g" alt= "Professional Banner" />
+  <img src="](https://github.com/datasavvysarah/datasavvysarah/blob/main/Blue%20Black%20and%20White%20Modern%20Corporate%20Professional%20LinkedIn%20Banner%20.png)" alt= "Professional Banner" />
 </p>
 
 ### Hello there 👋 I'm Sarah Iniobong Uko but you can call me Savvysarah! 😄
