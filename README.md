@@ -1,6 +1,7 @@
 <!-- Banner (optional but recommended for personality!) -->
 <p align="center">
-  <img src="](https://github.com/datasavvysarah/datasavvysarah/blob/main/Blue%20Black%20and%20White%20Modern%20Corporate%20Professional%20LinkedIn%20Banner%20.png)" alt= "Professional Banner" />
+  <img src= "![Header](./https://github.com/datasavvysarah/sarah_profile_readme/blob/main/Professional%20LinkedIn%20Banner.png)"alt= "Professional Banner" />
+
 </p>
 
 ### Hello there 👋 I'm Sarah Iniobong Uko but you can call me Savvysarah! 😄
