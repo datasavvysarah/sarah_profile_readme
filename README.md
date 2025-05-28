@@ -1,9 +1,3 @@
-<!-- Banner (optional but recommended for personality!) -->
-<p align="center">
-  <img src= "![Header](./https://github.com/datasavvysarah/sarah_profile_readme/blob/main/Professional%20LinkedIn%20Banner.png)"alt= "Professional Banner" />
-
-</p>
-
 ### Hello there 👋 I'm Sarah Iniobong Uko but you can call me Savvysarah! 😄
 
 💻 Passionate about tech, creativity, and community.
